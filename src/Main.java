@@ -45,6 +45,7 @@ public class Main implements ActionListener{
 			panel.add(create);
 			exit = new JButton("Exit");
 			panel.add(exit);
+			//////////////////////////////////////////////////////////
 		}
 		
 	}
