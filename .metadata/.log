@@ -28,3 +28,8 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2016-06-19 14:12:03.579
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui.ide 4 4 2016-06-19 14:23:10.620
+!MESSAGE Problems occurred refreshing the selected resources.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2016-06-19 14:23:10.620
+!MESSAGE The project description file (.project) for 'Level4TeamProject' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
