@@ -1,4 +1,6 @@
 
 public class AccountManager {
-
+	AccountManager(){
+		
+	}
 }
