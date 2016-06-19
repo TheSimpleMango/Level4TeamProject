@@ -42,6 +42,7 @@ public class Main {
 			panel.add(create);
 			exit = new JButton("Exit");
 			panel.add(exit);
+			//////////////////////////////////////////////////////////
 		}
 		
 	}
